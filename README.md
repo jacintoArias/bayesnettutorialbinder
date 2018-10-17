@@ -8,6 +8,8 @@ The workshop is based on jupyter notebooks and can be viewed as a presentation u
 
 I recommend taking it by loading binder!
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jacintoArias/bayesnettutorialbinder/master)
+
 ---
 
 To keep learning about `bnlearn` I recommend the original documentation and examples at http://bnlearn.com, and the excellent books by the author.
